@@ -1,0 +1,12 @@
+{
+	"name": "Shields-Block-Stickers",
+	"version": "1.0.0",
+	"title": "Shields Block Stickers",
+	"author": "Raszhagal",
+	"dependencies": [
+		"base >= 2.0.72"
+	],
+	"description": "Shields prevent slow effect from projectiles and pools created by spitters and worms.",
+	"factorio_version": "2.0.72",
+	"homepage": "https://factorio.com"
+}
